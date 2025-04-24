@@ -5,11 +5,11 @@ Python is used in this project with loops, and conditionals to create FizzBuzz. 
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Languages and Utilities</h2>
 
 - <b>Python</b> 
 
-<h2>Environments Used </h2>
+<h2>Environments</h2>
 
 - <b>Windows 10</b>
 - <b>Linux/Debian</b>
